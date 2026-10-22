@@ -1,0 +1,6 @@
+# app-ads.txt for apps published by Jason Smith (Play developer website: https://saladdev117.github.io)
+#
+# Replace the line below with the exact line AdMob gives you
+# (AdMob → Apps → View all apps → app-ads.txt → "How to set up app-ads.txt"),
+# and remove the leading "# " so it takes effect.
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
